@@ -1,7 +1,7 @@
-# SaudiVibe Commerce: End-to-End E-Commerce & Logistics SQL Analytics Platform
+# saudi-Commerce: End-to-End E-Commerce & Logistics SQL Analytics Platform
 
 ## Business Case & Saudi Vision 2030 Alignment
-In alignment with **Saudi Vision 2030**, specifically the **National Transport and Logistics Strategy (NTLS)** and the digital economy initiatives, **SaudiVibe Commerce** is an enterprise-grade analytics platform built to optimize e-commerce operations and supply chain performance within the Kingdom of Saudi Arabia (KSA). 
+In alignment with **Saudi Vision 2030**, specifically the **National Transport and Logistics Strategy (NTLS)** and the digital economy initiatives, **saudi-Commerce** is an enterprise-grade analytics platform built to optimize e-commerce operations and supply chain performance within the Kingdom of Saudi Arabia (KSA). 
 
 As the Kingdom rapidly shifts toward a cashless, hyper-connected digital economy, businesses face massive data scaling challenges. This project solves critical real-world operational friction points by providing data-driven visibility into:
 * **Logistics Network Optimization:** Measuring fulfillment efficiency from global-facing hubs like King Abdullah Economic City (KAEC) to local distribution nodes.
@@ -92,8 +92,8 @@ Quick Start Installation
 Clone the Repository:
 
 Bash
-git clone [https://github.com/yourusername/SaudiVibe-Commerce-Analytics.git](https://github.com/yourusername/SaudiVibe-Commerce-Analytics.git)
-cd SaudiVibe-Commerce-Analytics
+git clone [https://github.com/abdullah-tym/Saudi-Commerce.git](https://github.com/abdullah-tym/Saudi-Commerce.git)
+cd Saudi-Commerce
 Initialize Database Schema:
 
 Open pgAdmin 4 and create a new database named SaudiVibe_Commerce.
