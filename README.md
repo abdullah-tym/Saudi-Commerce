@@ -14,6 +14,7 @@ As the Kingdom rapidly shifts toward a cashless, hyper-connected digital economy
 The analytical engine is built on **PostgreSQL**, structured using a highly normalized relational schema designed for optimal write consistency and analytical performance.
 
 ### Entity-Relationship (ER) Overview
+ ```
  +---------------+         +---------------+         +---------------+
  |   CUSTOMERS   |         |    ORDERS     |         |   SHIPMENTS   |
  +---------------+         +---------------+         +---------------+
@@ -33,7 +34,7 @@ The analytical engine is built on **PostgreSQL**, structured using a highly norm
  | category      |                                   | city          |
  | price_sar     |                                   | capacity_sqm  |
  +---------------+                                   +---------------+
-
+```
 Performance Optimization
 To maximize query velocity across thousands of rows of data, targeted indexing strategies were deployed:
 
